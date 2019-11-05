@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1560818735 source:c:\users\lenovo\desktop\criba cuadratica\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<algorithm>
+	<math.h>
+	<stdio.h>
+	<vector>
+	<time.h>
+

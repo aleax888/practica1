@@ -1,0 +1,4 @@
+﻿  algs. mcd.cpp
+c:\users\lenovo\desktop\algs. mcd\algs. mcd\algs. mcd.cpp(73): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\lenovo\desktop\algs. mcd\algs. mcd\algs. mcd.cpp(43): warning C4715: 'numero3': no todas las rutas de acceso de control devuelven un valor
+  algs. mcd.vcxproj -> C:\Users\LENOVO\Desktop\algs. mcd\Debug\algs. mcd.exe

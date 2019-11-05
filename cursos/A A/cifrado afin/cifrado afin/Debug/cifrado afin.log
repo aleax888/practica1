@@ -1,0 +1,8 @@
+﻿  Afin.cpp
+c:\users\lenovo\desktop\cifrado afin\cifrado afin\afin.cpp(293): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\lenovo\desktop\cifrado afin\cifrado afin\afin.cpp(321): warning C4018: '<': no coinciden signed/unsigned
+c:\users\lenovo\desktop\cifrado afin\cifrado afin\afin.cpp(337): warning C4018: '<': no coinciden signed/unsigned
+  cifrado afin.cpp
+  Generando código...
+c:\users\lenovo\desktop\cifrado afin\cifrado afin\afin.cpp(278): warning C4715: 'Afin::euclidesE': no todas las rutas de acceso de control devuelven un valor
+  cifrado afin.vcxproj -> C:\Users\LENOVO\Desktop\cifrado afin\Debug\cifrado afin.exe

@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  C.cpp
+c:\users\lenovo\desktop\a a\encriptacion c-rf\encriptacion c-rf\c.cpp(28): warning C4018: '<': no coinciden signed/unsigned
+c:\users\lenovo\desktop\a a\encriptacion c-rf\encriptacion c-rf\c.cpp(47): warning C4018: '<': no coinciden signed/unsigned
+  encriptacion C-RF.cpp
+  RF.cpp
+c:\users\lenovo\desktop\a a\encriptacion c-rf\encriptacion c-rf\rf.cpp(32): warning C4018: '<': no coinciden signed/unsigned
+c:\users\lenovo\desktop\a a\encriptacion c-rf\encriptacion c-rf\rf.cpp(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\lenovo\desktop\a a\encriptacion c-rf\encriptacion c-rf\rf.cpp(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\lenovo\desktop\a a\encriptacion c-rf\encriptacion c-rf\rf.cpp(45): warning C4018: '<': no coinciden signed/unsigned
+c:\users\lenovo\desktop\a a\encriptacion c-rf\encriptacion c-rf\rf.cpp(74): warning C4018: '<': no coinciden signed/unsigned
+c:\users\lenovo\desktop\a a\encriptacion c-rf\encriptacion c-rf\rf.cpp(83): warning C4018: '<': no coinciden signed/unsigned
+c:\users\lenovo\desktop\a a\encriptacion c-rf\encriptacion c-rf\rf.cpp(85): warning C4018: '<': no coinciden signed/unsigned
+c:\users\lenovo\desktop\a a\encriptacion c-rf\encriptacion c-rf\rf.cpp(87): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+  encriptacion C-RF.vcxproj -> C:\Users\LENOVO\Desktop\A A\encriptacion C-RF\Debug\encriptacion C-RF.exe
