@@ -1,0 +1,40 @@
+Pregunta 3: True
+
+
+Pregunta 4: True
+
+
+Pregunta 5:	
+	
+Error:      SELECT employee_id, last_name
+	sal x 12 ANNUAL SALARY
+	FROM  employees;
+
+
+
+Correccion: SELECT employee_id, last_name,
+	12*SALARY AS ANNUAL_SALARY
+	FROM employees;
+
+
+Pregunta 6:
+	
+ - DESCRIBE DEPARTMENTS;
+
+ - SELECT * FROM DEPARTMENTS;
+
+
+Pregunta 7 y 8:
+
+ - DESCRIBE EMPLOYEES;
+
+ - SELECT EMPLOYEE_ID, LAST_NAME, JOB_ID, HIRE_DATA AS STARTDATE 
+	FROM EMPLOYEES;
+
+
+
+
+Pregunta 9:
+
+ - SELECT DISTINCT JOB_ID 
+	FROM EMPLOYEES;
