@@ -1,0 +1,10 @@
+﻿  prueba.cpp
+c:\users\lenovo\desktop\avl\prueba\prueba.cpp(306): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\lenovo\desktop\avl\prueba\prueba.cpp(97): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\lenovo\desktop\avl\prueba\prueba.cpp(27): note: durante la compilación de la función miembro de plantilla clase de 'void arbol<int>::superPrint(void)'
+  c:\users\lenovo\desktop\avl\prueba\prueba.cpp(315): note: vea la referencia a la creación de instancias de plantilla de función 'void arbol<int>::superPrint(void)' que se está compilando
+  c:\users\lenovo\desktop\avl\prueba\prueba.cpp(304): note: vea la referencia a la creación de instancias de plantilla clase de 'arbol<int>' que se está compilando
+c:\users\lenovo\desktop\avl\prueba\prueba.cpp(99): warning C4018: '<': no coinciden signed/unsigned
+c:\users\lenovo\desktop\avl\prueba\prueba.cpp(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\lenovo\desktop\avl\prueba\prueba.cpp(112): warning C4018: '<': no coinciden signed/unsigned
+  prueba.vcxproj -> C:\Users\LENOVO\Desktop\AVL\Debug\prueba.exe

@@ -1,0 +1,10 @@
+﻿  priority queue.cpp
+c:\users\lenovo\desktop\priority queue\priority queue\priority queue.cpp(55): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\lenovo\desktop\priority queue\priority queue\priority queue.cpp(30): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\lenovo\desktop\priority queue\priority queue\priority queue.cpp(29): note: durante la compilación de la función miembro de plantilla clase de 'void priority_queue<functor2>::print(void)'
+  c:\users\lenovo\desktop\priority queue\priority queue\priority queue.cpp(63): note: vea la referencia a la creación de instancias de plantilla de función 'void priority_queue<functor2>::print(void)' que se está compilando
+  c:\users\lenovo\desktop\priority queue\priority queue\priority queue.cpp(57): note: vea la referencia a la creación de instancias de plantilla clase de 'priority_queue<functor2>' que se está compilando
+c:\users\lenovo\desktop\priority queue\priority queue\priority queue.cpp(38): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\lenovo\desktop\priority queue\priority queue\priority queue.cpp(36): note: durante la compilación de la función miembro de plantilla clase de 'int priority_queue<functor2>::find(int)'
+  c:\users\lenovo\desktop\priority queue\priority queue\priority queue.cpp(44): note: vea la referencia a la creación de instancias de plantilla de función 'int priority_queue<functor2>::find(int)' que se está compilando
+  priority queue.vcxproj -> C:\Users\LENOVO\Desktop\priority queue\Debug\priority queue.exe

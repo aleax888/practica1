@@ -1,0 +1,7 @@
+﻿  arbol binario.cpp
+c:\users\lenovo\desktop\arbol binario\arbol binario\arbol binario.cpp(91): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\lenovo\desktop\arbol binario\arbol binario\arbol binario.cpp(24): note: durante la compilación de la función miembro de plantilla clase de 'void arbol<int>::superPrint(void)'
+  c:\users\lenovo\desktop\arbol binario\arbol binario\arbol binario.cpp(228): note: vea la referencia a la creación de instancias de plantilla de función 'void arbol<int>::superPrint(void)' que se está compilando
+  c:\users\lenovo\desktop\arbol binario\arbol binario\arbol binario.cpp(219): note: vea la referencia a la creación de instancias de plantilla clase de 'arbol<int>' que se está compilando
+c:\users\lenovo\desktop\arbol binario\arbol binario\arbol binario.cpp(93): warning C4018: '<': no coinciden signed/unsigned
+  arbol binario.vcxproj -> C:\Users\LENOVO\Desktop\arbol binario\Debug\arbol binario.exe

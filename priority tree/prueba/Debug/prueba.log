@@ -1,0 +1,9 @@
+﻿  prueba.cpp
+c:\users\lenovo\desktop\priority tree\prueba\prueba.cpp(112): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\lenovo\desktop\priority tree\prueba\prueba.cpp(42): note: durante la compilación de la función miembro de plantilla clase de 'void arbol<int,functor2>::superPrint(void)'
+  c:\users\lenovo\desktop\priority tree\prueba\prueba.cpp(251): note: vea la referencia a la creación de instancias de plantilla de función 'void arbol<int,functor2>::superPrint(void)' que se está compilando
+  c:\users\lenovo\desktop\priority tree\prueba\prueba.cpp(238): note: vea la referencia a la creación de instancias de plantilla clase de 'arbol<int,functor2>' que se está compilando
+c:\users\lenovo\desktop\priority tree\prueba\prueba.cpp(114): warning C4018: '<': no coinciden signed/unsigned
+c:\users\lenovo\desktop\priority tree\prueba\prueba.cpp(119): warning C4018: '<': no coinciden signed/unsigned
+c:\users\lenovo\desktop\priority tree\prueba\prueba.cpp(127): warning C4018: '<': no coinciden signed/unsigned
+  prueba.vcxproj -> C:\Users\LENOVO\Desktop\priority tree\Debug\prueba.exe
